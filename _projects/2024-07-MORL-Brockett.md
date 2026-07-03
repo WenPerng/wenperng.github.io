@@ -34,4 +34,4 @@ The note to my small talk can be downloaded [here](/assets/pdf/projects/2024_MOR
 Some open problems on the computational side remains. For example, whether the answer obtained by the different methods coincide. Though they most certainly seem to be the same, I have yet come up with a clean proof of it.
 
 # Further Explorations
-See the file [here](/assets/pdfs/projects/2024_Exploiting_Basins_of_Attraction_for_Newton_s_Method_on_Brockett_Function_Maximization.pdf).
+See the file [here](/assets/pdf/projects/2024_Exploiting_Basins_of_Attraction_for_Newton_s_Method_on_Brockett_Function_Maximization.pdf) for some further explorations on the geometric structure of the basins of attraction under Newton's method.
