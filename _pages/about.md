@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://csl.illinois.edu/'>CSL, UIUC</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>At the Rijksmuseum, April 2024.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! This is Wen Perng (彭琝(ㄨㄣˊ)), a soon-to-be Ph.D. student at ECE, University of Illinois, Urbana-Champaign. My interest is in the field of optimization and the related learning theory, information theory. Furthermore, I'm also mildly interested in (differential) geometry and its applications in information science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My future study and research at UIUC is under the guidance of professor [Bruce Hajek](https://hajek.ece.illinois.edu/) at the Coordinated Science Laboratory.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My bachelors study and research at the Department of Electrical Engineering at National Taiwan University (NTUEE), Taiwan, is under the guidance of professor [Homer H. Chen](https://scholar.google.com/citations?user=FhmQz0MAAAAJ&hl=en), targeting on topics related to light fields, Fourier optics, and phase retrieval.
+
+During the summer of 2025, I was an intern student at the [Adaptive Systems Lab](https://asl.epfl.ch/), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. My work was on the theoretical analysis of performances of multi-team (multi-cluster, multi-network) game. See [here](/posts/miscellaneous/EPFL-E3-internship) for more about the internship experience.

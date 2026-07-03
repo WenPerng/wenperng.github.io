@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"cai":
+  - firstname: ["Haoyuan"]
+    url: https://www.researchgate.net/profile/Haoyuan-Cai-3
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"chen":
+  - firstname: ["Homer H.", "Homer"]
+    url: https://scholar.google.com/citations?user=FhmQz0MAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"cheng":
+  - firstname: ["Yu-Hsiang"]
+    url: https://scholar.google.com/citations?user=8ap6DXEAAAAJ&hl=zh-TW
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"chi":
+  - firstname: ["Ting-Hsun"]
+    url: https://scholar.google.com/citations?user=urox3PEAAAAJ&hl=zh-TW
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"huang":
+  - firstname: ["Yu-Hsiang"]
+    url: https://justhowww.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"sayed":
+  - firstname: ["Ali H.", "Ali"]
+    url: https://scholar.google.com/citations?user=uDG9sXQAAAAJ&hl=en
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"shashkov":
+  - firstname: ["Vladyslav"]
+    url: https://people.epfl.ch/vladyslav.shashkov?lang=en
+
+    

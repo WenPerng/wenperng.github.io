@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICIP":
+  url: https://ieeeicip.org/
+  color: "#002855"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"ICASSP":
+  url: https://ieeeicassp.org/
+  color: "#002855"
