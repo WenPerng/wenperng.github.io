@@ -2,7 +2,7 @@
 layout: page
 title: "Paper Review: Optimisation Geometry"
 description: "Review of the paper \"Optimisation Geometry\" by Jonathan H. Manton."
-img: 
+img: /assets/img/projects/fibre_optimization.png
 date: 2024-07-15
 category: School Projects
 ---

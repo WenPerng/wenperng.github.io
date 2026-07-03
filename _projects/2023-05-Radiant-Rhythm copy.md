@@ -2,7 +2,7 @@
 layout: page
 title: "Radiant Rhythm - Illumination on a Chaotic Pendulum"
 description: "Ray tracing of a chaotic pendulum."
-img: /assets/img/projects/ray_tracing_pendulum.gif
+img: /assets/img/projects/ray_tracing_pendulum_preview.gif
 date: 2023-05-31
 category: School Projects
 ---

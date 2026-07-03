@@ -2,7 +2,7 @@
 layout: page
 title: "Modern Coding Theory and Technology"
 description: "Lecture notes for the course \"Modern Coding Theory and Technology\" given in the spring of 2025 by Prof. Hsin-Po Wang."
-img: 
+img: /assets/img/projects/polar_code.png
 date: 2025-06-06
 category: Notes
 ---
