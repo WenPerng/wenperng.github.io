@@ -4,7 +4,9 @@ title: Bounding Spectral Norm
 date: 2025-09-01
 description: "This post discusses how one bounds the spectral norm of a matrix using its 1-norm and infinity-norm."
 tags: math
-categories: random math
+categories: random-math
+toc:
+    sidebar: left
 ---
 
 > This post discusses how one bounds the spectral norm of a matrix using its 1-norm and infinity-norm.
@@ -19,7 +21,7 @@ It is so useful that throughout my research as an internship at EPFL, I have use
 
 Here I will be showing a generalized version of it regarding block-norm of matrices.
 
-# Block-norms
+## Block-norms
 Consider a block partitioned matrix
 
 $$
@@ -63,7 +65,7 @@ $$
 
 respectively.
 
-# The inequality
+## The inequality
 We are going to prove the following inequality:
 
 $$
@@ -72,7 +74,7 @@ $$
 }.
 $$
 
-The proof is separated into three parts: first I show that the *spectral radius* is upper-bounded by ALL valid matrix norms (those that are sub-multiplicative), then I show that the block-norms are valid, finally obtaining the inequality by combining the two results above.
+The proof is separated into three parts: first I show that the ***spectral radius*** is upper-bounded by ALL valid matrix norms (those that are sub-multiplicative), then I show that the block-norms are valid, finally obtaining the inequality by combining the two results above.
 
 Let us show that the spectral radius is upper-bounded by all valid matrix norm $$\|\cdot\|$$: consider a matrix $$B$$ with eigenvalue-eigenvector pair $$(\lambda,v)$$, then
 
