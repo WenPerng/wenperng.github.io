@@ -159,6 +159,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  - name: medium.com
+    posts:
+      - url: https://medium.com/@414waynep/%E7%BE%A9%E5%8B%99%E5%BD%B9%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%9C%8B%E5%8F%83%E5%8A%A0%E6%9C%83%E8%AD%B0-d5973bb903a7
+        published_date: 2026-07-05
+        categories: [external-posts]
   # - name: medium.com
   #   rss_url: https://medium.com/@al-folio/feed
   #   categories: [external-posts]
@@ -333,7 +338,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["links", "math", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: ["differential-geometry", "information-geometry", "optimization", "random-math"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

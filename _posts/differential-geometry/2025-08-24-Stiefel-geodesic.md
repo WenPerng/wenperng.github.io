@@ -479,7 +479,7 @@ Which formula is the best? Well, for aesthetics, I will definitely choose the th
 ## The canonical metric and the \\(\alpha\\)-metric
 A geodesic is determined by the connection chosen. And if we choose the connection to be the unique Levi-Civita (Riemannian) connection associated with a metric, the geodesic is then determined by the metric used.
 
-In the [previous post]((/posts/2025/08/blog-post-4/)), we only considered the Forbenius inner product of the form: for \\(H_1,H_2\in T_X\mathrm{St}(m,k)\\),
+In the previous sections, we only considered the Forbenius inner product of the form: for \\(H_1,H_2\in T_X\mathrm{St}(m,k)\\),
 <p>
 $$
 g_{e}(H_1,H_2) = \langle H_1,H_2 \rangle_F = \mathrm{Tr}\left\{H_1^\mathsf{T} H_2\right\}.
@@ -663,3 +663,5 @@ $$
 The parallel transport map is \\(\tau _{\gamma _{X _0,H _0}(t)}: T _{X _0}\mathcal{M} \rightarrow T _{\gamma _{X _0,H _0}(t)}\mathcal{M}\\).
 
 The immediate question will be asking whether the two parallel transport equations compatible? Sadly, I have yet figure out how to show their equivalence.
+
+---
