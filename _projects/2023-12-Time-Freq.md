@@ -2,7 +2,7 @@
 layout: page
 title: "Time-Frequency Methods and Optics: A Ray and Wave Analysis"
 description: "This project uses the mathematics of time-frequency analysis to concretely state the relation between ray and wave optics."
-img: 
+img: /assets/img/projects/tfw_optics.png
 date: 2023-12-28
 category: School Projects
 ---
