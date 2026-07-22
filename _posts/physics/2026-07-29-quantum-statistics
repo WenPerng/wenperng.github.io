@@ -1,0 +1,20 @@
+<!---
+layout: post
+title: Quantum Statistics
+date: 2026-07-29
+description: "This is an intuitive derivation of the Fermi--Dirac and Bose--Einstein statistics of quantum particles."
+tags: math, physics
+categories: physics
+toc:
+    sidebar: left
+--->
+
+> This post is an intuitive derivation of the Maxwell--Boltzmann, Fermi--Dirac, Bose--Einstein statistics followed by classical, Fermionic, and Bosonic particles, respectively.
+
+The quantum statistics of particles describe the probability of a particle occupying a state of a specified energy $$E$$ at thermal equilibrium. Specifically, we consider the quantum statistics of classical, Fermionic, and Bosonic particles.
+
+The discussions of this post follows directly from Chapter 11-3 of "Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles" by Robert Eisberg and Robert Resnick.
+
+
+## Fermi--Dirac Statistics
+## Bose--Einstein Statistics
