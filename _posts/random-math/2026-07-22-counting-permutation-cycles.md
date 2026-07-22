@@ -3,7 +3,8 @@ layout: post
 title: The Geometry of Cycles in Permutations
 date: 2026-07-22
 description: "This post discusses relation between the genus of the embedding space of a permutation and the number of cycles in the permutation."
-tags: random matrices
+thumbnail: assets/img/blog/2026-07-22-permutation-torus1-square.png
+tags: free-probability combinatorics
 categories: random-math
 toc:
     sidebar: left
@@ -50,7 +51,7 @@ Here are two examples that demonstrate this relation.
 Consider $$\gamma = (1,2,3,4,5,6)$$ and $$\pi = (1,2)(3,4)(5,6)$$, we have $$\gamma\pi = (1,3,5)(2)(4)(6)$$. Hence,
 
 $$
-\underbrace{\#(\pi)}_{=3} + \underbrace{\#(\gamma)}_{=1} + \underbrace{\#(\gamma\pi)}_{=4} = \underbrace{n}_{=6} + 2 - \underbrace{2g}_{=0}.
+\underbrace{\#(\pi)}_{=3} + \underbrace{\#(\gamma)}_{=1} + \underbrace{\#(\gamma\pi)}_{=4} = \underbrace{n}_{=6} + 2 - 2\underbrace{g}_{=0}.
 $$
 
 Therefore, we see that the genus is zero. I.e., the permutation $$\pi$$ can be drawn on a flat plane without crossing, and this is indeed the case. See the figure below for an illustration.
@@ -60,7 +61,7 @@ Therefore, we see that the genus is zero. I.e., the permutation $$\pi$$ can be d
 On the other hand, if we let $$\pi = (1,4)(2,5)(3,6)$$, then $$\gamma\pi = (1,5,3)(2,6,4)$$. Hence,
 
 $$
-\underbrace{\#(\pi)}_{=3} + \underbrace{\#(\gamma)}_{=1} + \underbrace{\#(\gamma\pi)}_{=2} = \underbrace{n}_{=6} + 2 - \underbrace{2g}_{=1}.
+\underbrace{\#(\pi)}_{=3} + \underbrace{\#(\gamma)}_{=1} + \underbrace{\#(\gamma\pi)}_{=2} = \underbrace{n}_{=6} + 2 - 2\underbrace{g}_{=1}.
 $$
 
 The genus is $$1$$, which is equal to a surface with one hole, i.e., a torus. Thus, the permutation $$\pi$$ cannot be drawn on a plane without edges crossing, instead, it needs to be drawn on a torus. See the figure below for an illustration. If the permutation graph of $$\pi$$ is drawn on a plane (left), it has its edges crossing each other. While if the permutation graph is drawn on a torus (right), the edges will not cross each other.
@@ -119,8 +120,10 @@ Here are two examples. First, consider again $$\gamma = (1,2,3,4,5,6)$$ and $$\p
 
 <br/><img src='/assets/img/blog/2026-07-22-permutation-torus1.png' width="100%">
 
-Another example is to consider $$\gamma = (1,2,3,4,5,6)$$ and $$\pi = (1,2,3,4)(5)(6)$$, then $$\gamma\pi = (1,3,5,6)(2,4)$$. The genus of this surface is also $$1$$.
+Another example is to consider $$\gamma = (1,2,3,4,5,6)$$ and $$\pi = (1,2,3,4)(5)(6)$$, then $$\gamma\pi = (1,3,5,6)(2,4)$$. The genus of this surface is also $$1$$. We have marked the left-hand side of each edge traversal by arrows: the blue arrows for the shaded face $$(2,4)$$, and the red arrows for the other face $$(1,3,5,6)$$.
 
 <br/><img src='/assets/img/blog/2026-07-22-permutation-torus2.png' width="100%">
 
-Remember, all the nodes should have their edges ordered with respect to the cycle order, and the same clockwise orientation was chosen.
+Remember, all the vertices should have their edges ordered with respect to the cycle order, and the same clockwise orientation was chosen.
+
+---
