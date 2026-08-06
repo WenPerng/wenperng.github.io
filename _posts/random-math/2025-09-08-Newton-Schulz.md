@@ -74,7 +74,7 @@ $$
 
 with $$M_0 = X$$. This is equivalent to applying the polynomial $$g(x) = 2x - 1.5x^3 + 0.5x^5$$ on the singular values. By iterating $$g$$ (see the figure below), we see that it maps all singular values in $$(0,\sqrt{2})$$.
 
-<br/><img src='/assets/img/posts/2025-09-08-orthogonalization.png' width="70%">
+<br/><img src='/assets/img/blog/2025-09-08-orthogonalization.png' width="70%">
 
 > ##### NOTE
 > My acquaintance with the Newton-Schulz method stemmed from my exploration of the neural network optimizer termed [Muon](https://kellerjordan.github.io/posts/muon/).
