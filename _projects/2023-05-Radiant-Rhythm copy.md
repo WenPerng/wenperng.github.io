@@ -18,4 +18,4 @@ The slides to the details and final representations can be found [here](/assets/
 
 ---
 
-Sadly, the code is in my old laptop... which has its chargers lost. I'll reupload the codes once I have figured out a way to obtain the files in my old laptop.
+The simulation code can be found [here](https://github.com/WenPerng/Numerical-Methods/tree/main/Final%20Project_Pendulum).
