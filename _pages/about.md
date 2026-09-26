@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! This is Wen Perng (彭琝(ㄨㄣˊ)), a soon-to-be Ph.D. student at ECE, University of Illinois, Urbana-Champaign. My interest is in the field of optimization and the related learning theory, information theory. Furthermore, I'm also mildly interested in (differential) geometry and its applications in information science.
+Hello there! This is Wen Perng (彭琝(ㄨㄣˊ)), a Ph.D. student at the ECE department, University of Illinois, Urbana-Champaign. My interest is in the field of optimization and the related learning theory, information theory. Furthermore, I'm also mildly interested in (differential) geometry and its applications in information science.
 
-My future study and research at UIUC is under the guidance of professor [Bruce Hajek](https://hajek.ece.illinois.edu/) at the Coordinated Science Laboratory.
+My current research at UIUC is under the guidance of professor [Bruce Hajek](https://hajek.ece.illinois.edu/) at the Coordinated Science Laboratory. The research topic was on optimization algorithms and guarantees on the problem of graph matching.
 
 My bachelors study and research at the Department of Electrical Engineering at National Taiwan University (NTUEE), Taiwan, is under the guidance of professor [Homer H. Chen](https://scholar.google.com/citations?user=FhmQz0MAAAAJ&hl=en), targeting on topics related to light fields, Fourier optics, and phase retrieval.
 
